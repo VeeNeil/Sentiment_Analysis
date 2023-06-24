@@ -1,0 +1,11 @@
+venv/
+env/
+.venv/
+.venv*/
+
+model_checkpoint.pt
+
+.idea
+*.iws
+*.iml
+*.ipr
